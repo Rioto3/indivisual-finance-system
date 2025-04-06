@@ -1,6 +1,7 @@
 # Indivisual Finance System
 
 [Claudeのリンク:](https://claude.ai/project/f5ba3519-87f0-42e7-ab40-ea8c4c92fa0b)
+
 [Githubのリンク:](https://github.com/Rioto3/indivisual-finance-system)
 
 ## 対象読者
