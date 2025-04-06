@@ -1,6 +1,6 @@
 # Indivisual Finance System
 
-(AIのリンク)[https://claude.ai/project/f5ba3519-87f0-42e7-ab40-ea8c4c92fa0b]
+[AIのリンク](https://claude.ai/project/f5ba3519-87f0-42e7-ab40-ea8c4c92fa0b)
 
 ## 対象読者
 - 自分
